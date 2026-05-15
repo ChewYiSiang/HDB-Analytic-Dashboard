@@ -119,7 +119,7 @@ Open `powerbi/HDB_Dashboard.pbix` and connect to your local PostgreSQL instance,
 
 **Key figures:** 231K total transactions · $504.9K median resale price · $5,573 avg price/sqm
 
-The trend line tracking both median resale price and average price per sqm tells a consistent upward story. Crucially, both lines move together — meaning the price increase isn't an artefact of larger flats dominating recent sales. The price per square metre is going up too, which points to genuine market-wide appreciation.
+The trend line tracking both median resale price and average price per sqm tells a consistent upward story. Crucially, both lines move together, meaning the price increase isn't an artefact of larger flats dominating recent sales. The price per square metre is going up too, which points to genuine market-wide appreciation.
 
 When median price and price/sqm rise in parallel, it signals real demand pressure and not a composition effect. Buyers are paying more for the same space year after year.
 
