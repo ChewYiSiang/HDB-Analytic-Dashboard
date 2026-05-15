@@ -127,7 +127,7 @@ When median price and price/sqm rise in parallel, it signals real demand pressur
 
 ### Page 2 — Town Analysis
 
-![town](powerbi\screenshots\[town].png)
+![town](powerbi/screenshots/[town].png)
 
 **Visuals:** Top 10 towns bar chart (by median price) · choropleth map (colour = median price) · price growth % table
 
@@ -143,7 +143,7 @@ Crossing from a fringe town to a central estate can add $150,000–$250,000 to t
 
 ### Page 3 — Flat Type Deep Dive
 
-![flat type](powerbi\screenshots\[flat_type].png)
+![flat type](powerbi/screenshots/[flat_type].png)
 
 **Visuals:** Median price by flat type (bar) · remaining lease by flat type (bar) · storey range vs resale price (line)
 
@@ -159,7 +159,7 @@ The remaining lease chart adds an important counterpoint: larger flat types tend
 
 ### Page 4 — Value Finder
 
-![value finder](powerbi\screenshots\[value_finder].png)
+![value finder](powerbi/screenshots/[value_finder].png)
 
 **Visuals:** Two price/sqm matrices — top 5 highest and top 5 lowest towns by avg price/sqm, broken down by flat type, with conditional colour formatting (green = best value, red = most expensive)
 
@@ -173,7 +173,7 @@ A 5-room flat in Yishun or Woodlands offers significantly more floor area per do
 
 ### Page 5 — Lease Analysis
 
-![lease](powerbi\screenshots\[lease].png)
+![lease](powerbi/screenshots/[lease].png)
 
 **Visuals:** Median price by lease bucket (bar) · transaction share by lease bucket (donut)
 
