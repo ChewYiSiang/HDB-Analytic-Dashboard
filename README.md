@@ -113,7 +113,7 @@ Open `powerbi/HDB_Dashboard.pbix` and connect to your local PostgreSQL instance,
 
 ### Page 1 — Overview
 
-![overview](powerbi\screenshots\[overview].png)
+![overview](powerbi/screenshots/[overview].png)
 
 **Visuals:** 3 KPI cards (total transactions, median resale price, avg price/sqm) · dual-axis line chart (median price and avg price/sqm by year)
 
